@@ -15,7 +15,7 @@ Industrial engineer passionate about the data science/data engineering world.
 </div>
 
 ## Connect with me 🌐
-[<img src="icons8-instagram-480.png" width="30">](www.instagram.com/nicolasmalloulery/) [<img src="icons8-linkedin-480.png" width="30">](https://www.linkedin.com/in/nicolasmalloulery)
+[<img src="icons8-instagram-480.png" width="30">](https://www.instagram.com/nicolasmalloulery/) [<img src="icons8-linkedin-480.png" width="30">](https://www.linkedin.com/in/nicolasmalloulery)
 
 
 
