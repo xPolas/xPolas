@@ -3,7 +3,7 @@ Industrial engineer passionate about the data science/data engineering world.
 
 ## About me 🙋‍♂️
 - 📚 University of Vigo & City University of Hong Kong
-- 🌟 Industrial engineering - Electrical, Rlectronics, Robotics and Automation
+- 🌟 Industrial engineering - Electrical, Electronics, Robotics and Automation
 - ⚡️ Now jumping into de Data Science world
 - ✉️ Reach me nicolasmalloulery@gmail.com
 
